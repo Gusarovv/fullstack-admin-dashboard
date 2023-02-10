@@ -37,7 +37,7 @@ Admin Dashboard, created based on the MNRN stack and using its own APIs
 
 ## ✍️ Description
 
-### 🧾 This application includes the following pages::
+### 🧾 This application includes the following pages:
 
 -   **Dashboard** ( Basic information about sales, transactions )
 -   **Client Facing**
@@ -82,7 +82,7 @@ cd ./server/ && docker compose up dev
 cd ./server/ && docker compose up -d prod
 ```
 
-### 2) Импорт данных из [/server/data](./server/data/)
+### 2) Importing data from [/server/data](./server/data/)
 
 ### 3) Frontend
 
