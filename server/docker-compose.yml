@@ -1,0 +1,62 @@
+version: '3.9'
+services:
+  ad-mongodb:
+    image: mongo:latest
+    container_name: ad-mongodb
+    volumes:
+        - ad-mongodb-data:/data/db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: ${MONGO_INITDB_ROOT_USERNAME}
+      MONGO_INITDB_ROOT_PASSWORD: ${MONGO_INITDB_ROOT_PASSWORD}
+      MONGO_INITDB_DATABASE: ${MONGO_INITDB_DATABASE}
+    ports:
+        - 27017:27017
+    restart: always
+  dev:
+    container_name: ad-server-dev
+    image: ad-server-dev:1.0.0
+    build:
+      dockerfile: Dockerfile
+      context: .
+      # Only will build development stage from our dockerfile
+      target: development
+    command: npm run start:dev
+    ports:
+      - 4000:4000
+      - 4001:9229
+    volumes:
+      - .:/app
+      - /app/node_modules
+    depends_on:
+      - ad-mongodb
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET}
+      JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET}
+      BCRYPT_SALT: ${BCRYPT_SALT}
+      CLIENT_URL: ${CLIENT_URL}
+  prod:
+    container_name: ad-server-prod
+    image: ad-server-prod:1.0.0
+    build:
+      dockerfile: Dockerfile
+      context: .
+    command: npm run start:prod
+    ports:
+      - 4000:4000
+      - 4001:9229
+    volumes:
+      - .:/app
+      - /app/node_modules
+    depends_on:
+      - ad-mongodb
+    restart: unless-stopped
+    environment:
+      DATABASE_URL: ${DATABASE_URL}
+      JWT_ACCESS_SECRET: ${JWT_ACCESS_SECRET}
+      JWT_REFRESH_SECRET: ${JWT_REFRESH_SECRET}
+      BCRYPT_SALT: ${BCRYPT_SALT}
+      CLIENT_URL: ${CLIENT_URL}
+volumes:
+  ad-mongodb-data:

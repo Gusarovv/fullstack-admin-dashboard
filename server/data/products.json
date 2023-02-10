@@ -1,0 +1,511 @@
+[{
+  "_id": {
+    "$oid": "63701d24f03239c72c00018e"
+  },
+  "name": "ALGOT",
+  "price": 311.71,
+  "description": "Wall upright/mesh baskets, 65x41x197 cm",
+  "category": "Bookcases & shelving units",
+  "rating": 1.15,
+  "supply": 1320,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239c72c00018f"
+  },
+  "name": "BILLY / OXBERG",
+  "price": 649.77,
+  "description": "Bookcase with door, 40x30x106 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 4.84,
+  "supply": 633,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239c72c000190"
+  },
+  "name": "STENSELE / NORRARYD",
+  "price": 576.06,
+  "description": "Bar table and 2 bar stools",
+  "category": "Bar furniture",
+  "rating": 1.48,
+  "supply": 977,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239c72c000191"
+  },
+  "name": "FRANKLIN",
+  "price": 77.54,
+  "description": "Bar stool with backrest, foldable, 74 cm",
+  "category": "Bar furniture",
+  "rating": 1.72,
+  "supply": 190,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239867500012a"
+  },
+  "name": "LIXHULT",
+  "price": 293.64,
+  "description": "Storage combination, 70x117 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 4.1,
+  "supply": 235,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239867500012b"
+  },
+  "name": "BESTÅ",
+  "price": 361.14,
+  "description": "Storage combination w glass doors, 60x22x202 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 1.92,
+  "supply": 1274,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239867500012c"
+  },
+  "name": "MELLTORP / ADDE",
+  "price": 219.56,
+  "description": "Table and 4 chairs, 125 cm",
+  "category": "Chairs",
+  "rating": 3.52,
+  "supply": 212,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239867500012d"
+  },
+  "name": "IKEA PS GULLHOLMEN",
+  "price": 16.91,
+  "description": "Rocking-chair",
+  "category": "Chairs",
+  "rating": 4.1,
+  "supply": 655,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239b7f7000015"
+  },
+  "name": "FLINTAN / NOMINELL",
+  "price": 555.73,
+  "description": "Office chair with armrests",
+  "category": "Chairs",
+  "rating": 1.5,
+  "supply": 880,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239b7f7000016"
+  },
+  "name": "MALSJÖ",
+  "price": 269.45,
+  "description": "Glass-door cabinet, 60x40x186 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 2.83,
+  "supply": 1101,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.026Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239b7f7000017"
+  },
+  "name": "INGOLF",
+  "price": 642.61,
+  "description": "Bar stool with backrest, 63 cm",
+  "category": "Chairs",
+  "rating": 4.96,
+  "supply": 736,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239b7f7000018"
+  },
+  "name": "BEKANT",
+  "price": 949.37,
+  "description": "Storage unit with smart lock, 41x101 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 1.56,
+  "supply": 1026,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f0323944410002ec"
+  },
+  "name": "HÄLLAN",
+  "price": 11.7,
+  "description": "Storage combination with doors, 135x47x192 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 2.31,
+  "supply": 734,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f0323944410002ed"
+  },
+  "name": "STUVA / FRITIDS",
+  "price": 380.01,
+  "description": "Bench with toy storage, 90x50x50 cm",
+  "category": "Chairs",
+  "rating": 4.4,
+  "supply": 958,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f0323944410002ee"
+  },
+  "name": "FRÖSÖN",
+  "price": 670.71,
+  "description": "Cover for chair cushion, 44x44 cm",
+  "category": "Outdoor furniture",
+  "rating": 1.02,
+  "supply": 527,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f0323944410002ef"
+  },
+  "name": "HAVSTEN",
+  "price": 690.23,
+  "description": "3-seat sofa, in/outdoor, 245x94x90 cm",
+  "category": "Outdoor furniture",
+  "rating": 1.73,
+  "supply": 520,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239d81e000015"
+  },
+  "name": "ÄPPLARÖ",
+  "price": 104.24,
+  "description": "Table+8 reclining chairs, outdoor",
+  "category": "Outdoor furniture",
+  "rating": 4,
+  "supply": 395,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239d81e000016"
+  },
+  "name": "VITTSJÖ",
+  "price": 132.95,
+  "description": "Storage combination, 202x36x175 cm",
+  "category": "Bookcases & shelving units",
+  "rating": 2.81,
+  "supply": 863,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239d81e000017"
+  },
+  "name": "HAVSTA",
+  "price": 459.23,
+  "description": "Cabinet with plinth, 81x47x89 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 3.25,
+  "supply": 704,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f03239d81e000018"
+  },
+  "name": "BEKANT",
+  "price": 629.2,
+  "description": "Storage unit with smart lock, 61x101 cm",
+  "category": "Cabinets & cupboards",
+  "rating": 2.36,
+  "supply": 1177,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032390a34000327"
+  },
+  "name": "KOLBJÖRN",
+  "price": 530.86,
+  "description": "Shelving unit in/outdoor, 80x81 cm",
+  "category": "Bookcases & shelving units",
+  "rating": 1.53,
+  "supply": 450,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032390a34000328"
+  },
+  "name": "GRÖNLID",
+  "price": 934.46,
+  "description": "4-seat sofa",
+  "category": "Sofas & armchairs",
+  "rating": 2.64,
+  "supply": 480,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032390a34000329"
+  },
+  "name": "BRIMNES",
+  "price": 867.33,
+  "description": "Bed frame with storage, 90x200 cm",
+  "category": "Beds",
+  "rating": 3.89,
+  "supply": 1164,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032390a3400032a"
+  },
+  "name": "SLATTUM",
+  "price": 22.98,
+  "description": "Upholstered bed frame, 140x200 cm",
+  "category": "Beds",
+  "rating": 3.26,
+  "supply": 617,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032395b3300012a"
+  },
+  "name": "EKEDALEN / EKEDALEN",
+  "price": 607.7,
+  "description": "Bar table and 4 bar stools, 120 cm",
+  "category": "Bar furniture",
+  "rating": 2.71,
+  "supply": 385,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032395b3300012b"
+  },
+  "name": "RAMSTA",
+  "price": 988.4,
+  "description": "Day-bed frame with slatted bed base, 90x200 cm",
+  "category": "Beds",
+  "rating": 2.54,
+  "supply": 314,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032395b3300012c"
+  },
+  "name": "EKET",
+  "price": 786.02,
+  "description": "Cabinet with door, 35x35x35 cm",
+  "category": "Bookcases & shelving units",
+  "rating": 1.11,
+  "supply": 858,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d24f032395b3300012d"
+  },
+  "name": "TUFFING",
+  "price": 211.21,
+  "description": "Bunk bed frame, 90x200 cm",
+  "category": "Beds",
+  "rating": 4.98,
+  "supply": 1185,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d25f03239d591000327"
+  },
+  "name": "BROR",
+  "price": 247.93,
+  "description": "Hook for post, 7x5x3 cm 2 pack",
+  "category": "Bookcases & shelving units",
+  "rating": 1.17,
+  "supply": 659,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+},{
+  "_id": {
+    "$oid": "63701d25f03239d591000328"
+  },
+  "name": "NYHAMN",
+  "price": 342.56,
+  "description": "Foam mattress, 140x200 cm",
+  "category": "Beds",
+  "rating": 1.43,
+  "supply": 157,
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  },
+  "updatedAt": {
+    "$date": "2023-02-01T19:16:30.027Z"
+  }
+}]
